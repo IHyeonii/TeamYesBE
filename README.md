@@ -12,14 +12,46 @@
 
 ![화면 캡처 2023-07-19 183402](https://github.com/IHyeonii/shop0409/assets/130817438/4f9bca8b-46e3-4018-a705-f0167d7a13a3)
 
+<br>
 
-    
-#####  ↓  🖱️ 클릭시 해당 페이지로 이동합니다!!
+## 담당 기능
+
+### 지점목록 조회 및 매장 상세정보 조회
+![지정 상세조회](https://github.com/IHyeonii/shop0409/assets/130817438/ab99b40f-83a9-4c99-a3c7-1288246d32f7)
+<br>
+<br>
+
+### 후기 등록
+![후기등록1](https://github.com/IHyeonii/shop0409/assets/130817438/d913af15-96ce-4289-bbef-5030b3e3d13b)
+<br>
+<br>
+
+### 등급 변동
+![등급변동](https://github.com/IHyeonii/shop0409/assets/130817438/6788e546-c0e1-412a-8491-7b49b98476b2)
+
+<br>
+
+
+<br>
+
+### 점주 페이지
+- 예약금 목록 필터 구현
+
+  ![예약금 상태](https://github.com/IHyeonii/shop0409/assets/130817438/39cb3fdb-a4e0-4cfe-8bd1-c7c8d6677ad6)
+<br>
+
+- 매장 후기 조회: 평점순 조회
+  
+  ![매장후기](https://github.com/IHyeonii/shop0409/assets/130817438/8bb38abc-b73b-4352-b995-c598a0896c72)
+
+
+<br>
+
+### etc.
+
+[📝 Notion: API정의서 확인](https://noon-tarn-5ce.notion.site/ede0de2519314e8eb12023603c907e40?v=4c9675de71ed482cb33538516d6b0b7d&pvs=4)
     
 <br>
-<a href="https://docs.google.com/spreadsheets/d/1ZG6e_FWndWUnwVbRYls-yXvOTHbC2Unk/edit#gid=1789139678" target="_blank"><img src="https://img.shields.io/badge/googledrive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>  <a href="https://www.erdcloud.com/d/vNJpJXtbNsE6m8hce" target="_blank"><img src="https://img.shields.io/badge/erd-7F2B7B?style=flat-square&logo=erd&logoColor=white"/></a>  <a href="https://www.notion.so/TEAM-Yes-64bfc71a9cd742f4834b00aba9e61e59" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>    
-<br><br>
-    
 
    
 ## Tools
