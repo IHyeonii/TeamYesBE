@@ -49,7 +49,7 @@
 
 ### etc.
 
-[📝 Notion: API정의서 확인](https://noon-tarn-5ce.notion.site/ede0de2519314e8eb12023603c907e40?v=4c9675de71ed482cb33538516d6b0b7d&pvs=4)
+[📝 Notion: API정의서 확인]([https://noon-tarn-5ce.notion.site/ede0de2519314e8eb12023603c907e40?v=4c9675de71ed482cb33538516d6b0b7d&pvs=4](https://www.notion.so/TEAM-Yes-64bfc71a9cd742f4834b00aba9e61e59))
     
 <br>
 
