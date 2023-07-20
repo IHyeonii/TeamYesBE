@@ -6,28 +6,33 @@
 
 <section>  
 <div>
-<br>
 
   # TEAM Yes
+![image](https://github.com/ssginc-kdt-3team/TeamYesBE/assets/130817438/07cf3944-b2ff-4d7a-9e88-4088324b9227)
 
-![화면 캡처 2023-07-19 183402](https://github.com/IHyeonii/shop0409/assets/130817438/4f9bca8b-46e3-4018-a705-f0167d7a13a3)
+
+</div>
+<br>
+
 
 <br>
 
 ## 담당 기능
 
 ### 지점목록 조회 및 매장 상세정보 조회
-![지정 상세조회](https://github.com/IHyeonii/shop0409/assets/130817438/ab99b40f-83a9-4c99-a3c7-1288246d32f7)
+![지점조회](https://github.com/ssginc-kdt-3team/TeamYesBE/assets/130817438/c0b29526-60ff-4810-ac1b-91300d7046dc)
+
 <br>
 <br>
 
 ### 후기 등록
-![후기등록1](https://github.com/IHyeonii/shop0409/assets/130817438/d913af15-96ce-4289-bbef-5030b3e3d13b)
+![후기등록](https://github.com/ssginc-kdt-3team/TeamYesBE/assets/130817438/eb7a4d00-a07b-44e8-aea3-dd648dccf311)
+
 <br>
 <br>
 
 ### 등급 변동
-![등급변동](https://github.com/IHyeonii/shop0409/assets/130817438/6788e546-c0e1-412a-8491-7b49b98476b2)
+![등급변동](https://github.com/ssginc-kdt-3team/TeamYesBE/assets/130817438/1097b6ec-4cbe-4d15-a404-599107c47773)
 
 <br>
 
@@ -37,19 +42,20 @@
 ### 점주 페이지
 - 예약금 목록 필터 구현
 
-  ![예약금 상태](https://github.com/IHyeonii/shop0409/assets/130817438/39cb3fdb-a4e0-4cfe-8bd1-c7c8d6677ad6)
-<br>
+  ![예약금상태](https://github.com/ssginc-kdt-3team/TeamYesBE/assets/130817438/bd81cae9-d157-4aea-9c3a-357d45dcb3c3)
+
 
 - 매장 후기 조회: 평점순 조회
-  
-  ![매장후기](https://github.com/IHyeonii/shop0409/assets/130817438/8bb38abc-b73b-4352-b995-c598a0896c72)
+
+  ![매장후기](https://github.com/ssginc-kdt-3team/TeamYesBE/assets/130817438/49adab0a-2fc5-422e-a984-58cf73a7300a)
+
 
 
 <br>
 
 ### etc.
 
-[📝 Notion: API정의서 확인](https://www.notion.so/TEAM-Yes-64bfc71a9cd742f4834b00aba9e61e59)
+[📝 Notion: API정의서 확인](https://noon-tarn-5ce.notion.site/596cfee67dc6410ead1ce8b5d91f14c7?v=84c7a91928a84ab9958099d18df4e98c&pvs=4)
     
 <br>
 
