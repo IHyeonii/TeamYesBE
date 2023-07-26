@@ -44,6 +44,7 @@
 
   ![예약금상태](https://github.com/ssginc-kdt-3team/TeamYesBE/assets/130817438/bd81cae9-d157-4aea-9c3a-357d45dcb3c3)
 
+<br>
 
 - 매장 후기 조회: 평점순 조회
 
@@ -53,9 +54,9 @@
 
 <br>
 
-### etc.
+### 담당기능 및 API 설계 상세
 
-[📝 Notion: API정의서 확인](https://noon-tarn-5ce.notion.site/596cfee67dc6410ead1ce8b5d91f14c7?v=84c7a91928a84ab9958099d18df4e98c&pvs=4)
+[📝 Notion: API정의서 확인](https://noon-tarn-5ce.notion.site/0fd42575b1f34de2b37035b9fdeef9af?v=398d77512ff84a8bac3bd44bcb859d3d&pvs=4)
     
 <br>
 
